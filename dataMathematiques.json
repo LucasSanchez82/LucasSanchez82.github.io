@@ -2,16 +2,16 @@
     {
       "id": 0,
       "title": "titre mathematiques",
-      "containt": "paragraphe mathematiques",
-      "published_at": "2020-11-13T08:22:58.135Z",
+      "containt": "paragraphe mathematiques",      
+      "deescription": "paragraphe1",
       "updated_at": "2020-11-13T10:34:58.976Z"
     },
 
     {
         "id": 1,
         "title": "titre mathematiques2",
-        "containt": "paragraphe mathematiques1",
-        "published_at": "2020-11-13T08:22:58.135Z",
+        "containt": "paragraphe mathematiques1",      
+        "description": "paragraphe2",
         "updated_at": "2020-11-13T10:34:58.976Z"
     },
 
@@ -19,7 +19,7 @@
     "id": 2,
     "title": "titre mathematiques3",
     "containt": "paragraphe mathematiques2",
-    "published_at": "2020-11-13T08:22:58.135Z",
+    "description": "paragraphe3",
     "updated_at": "2020-11-13T10:34:58.976Z"
     }
 ]
