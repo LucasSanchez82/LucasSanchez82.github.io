@@ -3,12 +3,14 @@
       "id": 0,
       "title": "titre 1 histoire😎",
       "containt": "premier paragraphe histoire",
+			"description": "paragraphe1",		
       "updated_at": "2020-11-13T06:55:14.368Z"
     },
     {
       "id": 1,
       "title": "titre histoire 2",
       "containt": "paragraphe histoire 2 ",
+			"description": "paragraphe2",
       "updated_at": "2020-11-13T08:42:04.252Z"
     }
 ]
