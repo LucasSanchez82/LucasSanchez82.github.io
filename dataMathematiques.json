@@ -1,5 +1,4 @@
-{
-  "partie1": [
+[
     {
       "id": 0,
       "title": "titre mathematiques",
@@ -23,5 +22,4 @@
     "description": "paragraphe3",
     "updated_at": "2020-11-13T10:34:58.976Z"
     }
-  ]
-}
+]
