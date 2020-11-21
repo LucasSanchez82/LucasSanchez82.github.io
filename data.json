@@ -35,5 +35,21 @@
           "published_at": "2020-11-13T08:22:58.135Z",
           "updated_at": "2020-11-13T10:34:58.976Z"
         }
+    ],
+    "Français": [
+      {
+        "id": 0,
+        "title": "titre Français1",
+        "containt": "paragraphe Français1",
+        "published_at": "21/11/2020",
+        "updated_at": "21/11/2020"
+      },
+      {
+        "id": 1,
+        "title": "titre Français2",
+        "containt": "paragraphe Français2",
+        "published_at": "21/11/2020",
+        "updated_at": "21/11/2020"
+      }
     ]
 }
