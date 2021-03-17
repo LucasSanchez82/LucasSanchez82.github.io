@@ -19,5 +19,12 @@
         "url": "Incas",
         "img": "https://th.bing.com/th/id/OIP.FPpCr6Ta97sXgFtOeE8FsgHaE8?pid=ImgDet&rs=1",
         "nomFichier": "dataIncas"
+    },
+    {
+        "title": "La Mythologie nordique ",
+        "categorie": "Mythologie",
+        "url": "Nordique",
+        "img": "https://th.bing.com/th/id/OIP.hf7IJ7RGJuHy0BAc7ku5QgHaD2?w=320&h=180&c=7&o=5&pid=1.7",
+        "nomFichier": "dataMythologienordique"
     }
 ]
