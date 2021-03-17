@@ -7,16 +7,9 @@
         "nomFichier": "dataPeupleScandinave"
     },
     {
-        "title": "Mythologie Nordique",
-        "categorie": "Mythologie",
-        "url": "Nordique",
-        "img": "https://s2.qwant.com/thumbr/0x0/e/c/b8351a71d69e108c8641ec9170e7fa684f3f9a28c7b5fe7c73f2b6a29a5f8d/odin3.jpg?u=https%3A%2F%2Fmythologica.fr%2Fnordique%2Fpic%2Fodin3.jpg&q=0&b=1&p=0&a=1",
-        "nomFichier": "dataMythologieNordique"
-    },
-    {
-        "title": "Histoire Canadiéne",
+        "title": "Histoire du canada",
         "categorie": "Histoire",
-        "url": "Canadiéne",
+        "url": "Canada",
         "img": "https://th.bing.com/th/id/OIP.qbF8poUkDFUtcTrTcqwltQHaEy?pid=ImgDet&rs=1",
         "nomFichier": "dataHistoireduCanada"
     }
