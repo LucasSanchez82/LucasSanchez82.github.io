@@ -12,5 +12,12 @@
         "url": "Canada",
         "img": "https://th.bing.com/th/id/OIP.qbF8poUkDFUtcTrTcqwltQHaEy?pid=ImgDet&rs=1",
         "nomFichier": "dataHistoireduCanada"
+    },
+    {
+        "title": "Histoire des Incas",
+        "categorie": "Histoire",
+        "url": "Incas",
+        "img": "https://th.bing.com/th/id/OIP.FPpCr6Ta97sXgFtOeE8FsgHaE8?pid=ImgDet&rs=1",
+        "nomFichier": "dataIncas"
     }
 ]
