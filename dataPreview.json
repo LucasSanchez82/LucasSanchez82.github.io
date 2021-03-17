@@ -14,3 +14,12 @@
         "nomFichier": "dataMythologieNordique"
     }
 ]
+    },
+    {
+        "title": "Histoire Canadiéne",
+        "categorie": "Histoire",
+        "url": "Canadiéne",
+        "img": "https://th.bing.com/th/id/OIP.qbF8poUkDFUtcTrTcqwltQHaEy?pid=ImgDet&rs=1",
+        "nomFichier": "dataHistoireduCanada"
+    }
+]
